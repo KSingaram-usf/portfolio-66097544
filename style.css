@@ -1,3 +1,7 @@
+body {
+    background-color: red; /* Temporary test */
+}
+
 /* General Body Styles */
 body {
     font-family: 'Roboto', sans-serif;
@@ -43,7 +47,7 @@ h1, h2, h3 {
 }
 
 /* === AI ASSISTED AREA === */
-/* Ask an AI to add a cool hover effect or animation here! */
+/* Prompted AI to add a cool hover effect or animation here! */
 .project-card:hover {
     transform: scale(1.02); /* Example hover effect */
     transition: transform 0.3s ease-in-out;
