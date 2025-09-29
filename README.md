@@ -26,7 +26,7 @@ This project was developed as part of my academic coursework focused on foundati
 
 ## Note: Use of AI in Development
 
-AI tools were used minimally during the development of this project. The initial HTML structure was generated with the help of Gemini to establish a clean, semantic layout using foundational HTML5 elements. Additionally, styling suggestions—such as card-based layouts, gradient panels, and soft UI effects—were explored through AI-assisted brainstorming to refine the visual presentation.
+AI tools were used minimally during the development of this project. The initial HTML structure was generated with the help of Gemini to establish a clean, semantic layout using foundational HTML5 elements. Additionally, styling suggestions—such as hovering effect, card-based layouts, gradient panels, and soft UI effects—were explored through AI-assisted brainstorming to refine the visual presentation.
 
 Beyond layout and styling, AI was primarily used for proofreading and polishing written content throughout the README and documentation. All structural decisions, code organization, and responsive design techniques were implemented manually to reinforce learning and ensure full understanding of core web development principles using git, github and VS code.
 
