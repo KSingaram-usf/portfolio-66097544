@@ -29,7 +29,15 @@ section {
     margin-bottom: 2rem;
 }
 
-h1, h2, h3 {
+/* Headings */
+h1 {
+    color: #fff;
+    background-color: #007BFF;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+}
+
+h2, h3 {
     color: #333;
 }
 
@@ -45,7 +53,7 @@ h1, h2, h3 {
 /* === AI ASSISTED AREA === */
 /* Prompted AI to add a cool hover effect or animation here! */
 .project-card:hover {
-    transform: scale(1.02); /* Example hover effect */
+    transform: scale(1.02);
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
 }
