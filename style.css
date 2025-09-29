@@ -10,7 +10,7 @@ body {
 
 /* Header and Footer */
 header, footer {
-    background-color: #559cff;
+    background-color: #007BFF;
     color: hsl(0, 0%, 100%);
     text-align: center;
     padding: 1rem 0;
